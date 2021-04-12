@@ -69,3 +69,7 @@ Document PDC en texte.py - Catharina:
 * ouvre le document PDC.txt
 * remplace chaque émoji par son mot correspondant
 * écrit les changements dans le document PDC.txt qui "retrouve" sa forme initiale (sans émojis)
+
+Document PDC en HTML.py - Stephanie:
+* affiche tout le texte de la 1ère partie de la Princesse de Clèves
+* affiche un bouton "remplacer", qui déclenche après un clic la fonction "remplacer" (arrive bientôt) en JavaScript
