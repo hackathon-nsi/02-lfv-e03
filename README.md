@@ -30,6 +30,8 @@ Niveau 1:
 
 22/03: Finalisation du projet: finalisation de la fonction remplacer sur python (Fonction_remplacer), copié le texte de la Princesse de Clèves dans un fichier txt (PDC.txt) - Stephanie; finalisation du programme principal sur python (PDC en émojis), puis mise en commun avec le document de Stephanie pour voir si tout fonctionne sans problèmes, ajustements, création d'un programme qui transforme le texte avec les émojis en texte sans émojis (PDC en texte) - Catharina  
 
+Ajout de tous les programmes terminés le 22/03: PDC.txt, PDC en émojis, PDC en texte et Fonction_remplacer
+
 Niveau 2:
 
 26/03: Commencement du niveau 2: travail sur le programme principal en html - Stephanie; Recherches sur la syntaxe de JS, commencement de la fonction remplacer en JavaScript - Catharina
@@ -37,3 +39,31 @@ Niveau 2:
 12/04: Finalisation du programme principal en HTML - Stephanie; travail sur la fonction remplacer en JavaScript - Catharina
 
 ## DOCUMENTATION
+Document Test_1.py:
+Test pour voir comment GitHub fonctionne
+
+Document PDC.txt - Stephanie:
+-comporte seulement le texte de la 1ère partie de PDC, pas modifié
+
+Document PDC en émojis.py - le programme principal - Catharina:
+-importe la fonction remplacer de Stephanie
+-exécute la fonction remplacer
+-"stocke" ce qui sort de cette fonction dans une variable
+-ouvre le document PDC.txt
+-remplace le contenu du document PDC.txt par le texte changé qui a été "stocké" dans la variable
+
+Document Fonction_remplacer.py - Stephanie:
+-création d'un dictionnaire qui associe à quelques mots des émojis
+-création de la fonction:
+ ->ouvre PDC.txt
+ ->parcourt chaque mot dans le document:
+  * parcourt le dictionnaire
+  * si le mot se trouve dans le dictionnaire, il est remplacé par son émoji
+  * chaque mot remplacé ou non est ajouté dans une variable
+ ->retourne la variable, qui comporte le texte modifié
+
+Document PDC en texte.py - Catharina:
+-création d'un dictionnaire qui associe à quelques mots des émojis
+-ouvre le document PDC.txt
+-remplace chaque émoji par son mot correspondant
+-écrit les changements dans le document PDC.txt qui est "retrouve" sa forme initiale (sans émojis)
