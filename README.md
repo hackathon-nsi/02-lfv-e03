@@ -16,29 +16,29 @@ niveau 4 : |--------------------|<br />
 
 Travail préparatoire:
 
-01/03: création d'un compte GitHub en classe
+* 01/03: création d'un compte GitHub en classe
 
-Semaine du 08/03: introduction à Git-Hub en classe, divers essais à remplacer des mots par des émojis sur python - collaboration Catharina et Stephanie
+* Semaine du 08/03: introduction à Git-Hub en classe, divers essais à remplacer des mots par des émojis sur python - collaboration Catharina et Stephanie
 
-15/03: Commencement du projet: recherche d'émojis, partage du travail, planification du projet, divers essais à remplacer des mots par des émojis sur python - collaboration Catharina et Stephanie
+* 15/03: Commencement du projet: recherche d'émojis, partage du travail, planification du projet, divers essais à remplacer des mots par des émojis sur python - collaboration Catharina et Stephanie
 
-17/03: Catharina et Stephanie ont rejoigné l'organisation hackathon-nsi (02-lfv-e03)
+* 17/03: Catharina et Stephanie ont rejoigné l'organisation hackathon-nsi (02-lfv-e03)
 
 Niveau 1:
 
-19/03: Essai de déposer un fichier sur Git-Hub (Test_1), divers essais à remplacer des mots par des émojis sur un fichier externe - Stephanie ; Essai de télécharger un fichier de Git-Hub, commencement du programme principal - Catharina 
+* 19/03: Essai de déposer un fichier sur Git-Hub (Test_1), divers essais à remplacer des mots par des émojis sur un fichier externe - Stephanie ; Essai de télécharger un fichier de Git-Hub, commencement du programme principal - Catharina 
 
-22/03: Finalisation du projet: finalisation de la fonction remplacer sur python (Fonction_remplacer), copié le texte de la Princesse de Clèves dans un fichier txt (PDC.txt) - Stephanie; finalisation du programme principal sur python (PDC en émojis), puis mise en commun avec le document de Stephanie pour voir si tout fonctionne sans problèmes, ajustements, création d'un programme qui transforme le texte avec les émojis en texte sans émojis (PDC en texte) - Catharina  
+* 22/03: Finalisation du projet: finalisation de la fonction remplacer sur python (Fonction_remplacer), copié le texte de la Princesse de Clèves dans un fichier txt (PDC.txt) - Stephanie; finalisation du programme principal sur python (PDC en émojis), puis mise en commun avec le document de Stephanie pour voir si tout fonctionne sans problèmes, ajustements, création d'un programme qui transforme le texte avec les émojis en texte sans émojis (PDC en texte) - Catharina  
 
-Ajout de tous les programmes terminés le 22/03: PDC.txt, PDC en émojis, PDC en texte et Fonction_remplacer.
+* Ajout de tous les programmes terminés le 22/03: PDC.txt, PDC en émojis, PDC en texte et Fonction_remplacer.
 
 Niveau 2:
 
-26/03: Commencement du niveau 2: travail sur le programme principal en html - Stephanie; Recherches sur la syntaxe de JS, commencement de la fonction remplacer en JavaScript - Catharina
+* 26/03: Commencement du niveau 2: travail sur le programme principal en html - Stephanie; Recherches sur la syntaxe de JS, commencement de la fonction remplacer en JavaScript - Catharina
 
-12/04: Finalisation du programme principal en HTML (PDC en HTML) - Stephanie; travail sur la fonction remplacer en JavaScript - Catharina
+* 12/04: Finalisation du programme principal en HTML (PDC en HTML) - Stephanie; travail sur la fonction remplacer en JavaScript - Catharina
 
-Ajout du programme terminé PDC en HTML le 12/04.
+* Ajout du programme terminé PDC en HTML le 12/04.
 
 ## DOCUMENTATION
 Document Test_1.py:
@@ -68,4 +68,4 @@ Document PDC en texte.py - Catharina:
 * création d'un dictionnaire qui associe à quelques mots des émojis
 * ouvre le document PDC.txt
 * remplace chaque émoji par son mot correspondant
-* écrit les changements dans le document PDC.txt qui est "retrouve" sa forme initiale (sans émojis)
+* écrit les changements dans le document PDC.txt qui "retrouve" sa forme initiale (sans émojis)
