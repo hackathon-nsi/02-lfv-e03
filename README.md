@@ -32,8 +32,8 @@ Niveau 1:
 
 Niveau 2:
 
-26/03: Commencement du niveau 2: travail sur le programme principal en html - Stephanie; travail sur la fonction remplacer dans JavaScript - Catharina
+26/03: Commencement du niveau 2: travail sur le programme principal en html - Stephanie; Recherches sur la syntaxe de JS, commencement de la fonction remplacer en JavaScript - Catharina
 
-12/04: Finalisation du programme principal en HTML - Stephanie; Recherches sur la syntaxe de JS, commencement de la fonction remplacer en JavaScript - Catharina
+12/04: Finalisation du programme principal en HTML - Stephanie; travail sur la fonction remplacer en JavaScript - Catharina
 
 ## DOCUMENTATION
