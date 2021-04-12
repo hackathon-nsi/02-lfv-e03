@@ -30,13 +30,15 @@ Niveau 1:
 
 22/03: Finalisation du projet: finalisation de la fonction remplacer sur python (Fonction_remplacer), copié le texte de la Princesse de Clèves dans un fichier txt (PDC.txt) - Stephanie; finalisation du programme principal sur python (PDC en émojis), puis mise en commun avec le document de Stephanie pour voir si tout fonctionne sans problèmes, ajustements, création d'un programme qui transforme le texte avec les émojis en texte sans émojis (PDC en texte) - Catharina  
 
-Ajout de tous les programmes terminés le 22/03: PDC.txt, PDC en émojis, PDC en texte et Fonction_remplacer
+Ajout de tous les programmes terminés le 22/03: PDC.txt, PDC en émojis, PDC en texte et Fonction_remplacer.
 
 Niveau 2:
 
 26/03: Commencement du niveau 2: travail sur le programme principal en html - Stephanie; Recherches sur la syntaxe de JS, commencement de la fonction remplacer en JavaScript - Catharina
 
 12/04: Finalisation du programme principal en HTML (PDC en HTML) - Stephanie; travail sur la fonction remplacer en JavaScript - Catharina
+
+Ajout du programme terminé PDC en HTML le 12/04.
 
 ## DOCUMENTATION
 Document Test_1.py:
@@ -57,9 +59,9 @@ Document Fonction_remplacer.py - Stephanie:
 * création de la fonction:
   * ouvre PDC.txt
   * parcourt chaque mot dans le document:
-   * parcourt le dictionnaire
-   * si le mot se trouve dans le dictionnaire, il est remplacé par son émoji
-   * chaque mot remplacé ou non est ajouté dans une variable
+    * parcourt le dictionnaire
+    * si le mot se trouve dans le dictionnaire, il est remplacé par son émoji
+    * chaque mot remplacé ou non est ajouté dans une variable
   * retourne la variable, qui comporte le texte modifié
 
 Document PDC en texte.py - Catharina:
