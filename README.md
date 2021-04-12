@@ -38,7 +38,7 @@ Niveau 2:
 
 * 12/04: Finalisation du programme principal en HTML (PDC en HTML) - Stephanie; travail sur la fonction remplacer en JavaScript - Catharina
 
-* Ajout du programme terminé PDC en HTML le 12/04.
+* Ajout du programme terminé PDC en HTML le 12/04. Fonction remplacer arrive bientôt.
 
 ## DOCUMENTATION
 Document Test_1.py:
