@@ -4,7 +4,7 @@
 
 **PROGRESSION** (*changer les - par des # | # = 5%*)<br />
 niveau 1 : |####################|<br />
-niveau 2 : |########------------|<br />
+niveau 2 : |####################|<br />
 niveau 3 : |--------------------|<br />
 niveau 4 : |--------------------|<br />
 
@@ -24,7 +24,7 @@ Travail préparatoire:
 
 * 17/03: Catharina et Stephanie ont rejoigné l'organisation hackathon-nsi (02-lfv-e03)
 
-Niveau 1:
+NIVEAU 1:
 
 * 19/03: Essai de déposer un fichier sur Git-Hub (Test_1), divers essais à remplacer des mots par des émojis sur un fichier externe - Stephanie ; Essai de télécharger un fichier de Git-Hub, commencement du programme principal - Catharina 
 
@@ -32,7 +32,7 @@ Niveau 1:
 
 * Ajout de tous les programmes terminés le 22/03: PDC.txt, PDC en émojis, PDC en texte et Fonction_remplacer.
 
-Niveau 2:
+NIVEAU 2:
 
 * 26/03: Commencement du niveau 2: travail sur le programme principal en html - Stephanie; Recherches sur la syntaxe de JS, commencement de la fonction remplacer en JavaScript - Catharina
 
@@ -44,6 +44,8 @@ Niveau 2:
 Document Test_1.py:
 Test pour voir comment GitHub fonctionne
 
+NIVEAU 1:
+
 Document PDC.txt - Stephanie:
 * comporte seulement le texte de la 1ère partie de PDC, pas modifié
 
@@ -54,7 +56,7 @@ Document PDC en émojis.py - le programme principal - Catharina:
 * ouvre le document PDC.txt
 * remplace le contenu du document PDC.txt par le texte changé qui a été "stocké" dans la variable
 
-Document Fonction_remplacer.py - Stephanie:
+Document Fonction_remplacer.py - fonction complémentaire - Stephanie:
 * création d'un dictionnaire qui associe à quelques mots des émojis
 * création de la fonction:
   * ouvre PDC.txt
@@ -70,6 +72,21 @@ Document PDC en texte.py - Catharina:
 * remplace chaque émoji par son mot correspondant
 * écrit les changements dans le document PDC.txt qui "retrouve" sa forme initiale (sans émojis)
 
-Document PDC en HTML.py - Stephanie:
+NIVEAU 2:
+
+Document PDC en HTML.py - le programme principal - Stephanie:
 * affiche tout le texte de la 1ère partie de la Princesse de Clèves
-* affiche un bouton "remplacer", qui déclenche après un clic la fonction "remplacer" (arrive bientôt) en JavaScript
+* affiche un bouton "remplacer", qui déclenche après un clic la fonction "remplacer" sur le document en JavaScript
+
+Document Fonctions_javascript.js - fonction complémentaire - Catharina:
+* création d'un dictionnaire qui associe à quelques mots des émojis
+* création de la fonction:
+  * copie tout le texte de la page HTML et le stocke dans une variable
+  * découpe le texte en mots séparés et les stocke dans une nouvelle variable
+  * pour chaque mot:
+    * parcourt le dictionnaire
+    * si le mot se trouve dans le dictionnaire, il est remplacé par son émoji
+    * chaque mot remplacé ou non est ajouté dans une variable
+  * remet le texte modifié sur la page HTML
+
+
