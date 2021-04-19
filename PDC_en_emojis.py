@@ -9,7 +9,7 @@ from Fonction_remplacer import*
 fichier_nv=remplacer()
 
 # On remplace le contenu du document par le texte changé qui a été stocké dans la variable "fichier_nv" (wt = mode d'écriture)
-with open("PDC.txt" , "wt" , encoding = "utf-8") as fichier :
+with open("PDC_fin.txt" , "wt" , encoding = "utf-8") as fichier :
     fichier.write(fichier_nv)
 
 
