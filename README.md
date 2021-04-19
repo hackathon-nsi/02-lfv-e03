@@ -44,7 +44,7 @@ niveau 4 : |--------------------|<br />
 
 * Ajout des programmes modifiés PDC en HTML et Fonction_remplacer en Python et du nouveau programme terminé fonctions_javascript le **18/04**.
 
-* **19/04**: Les documents suivants ont été renommés: "PDC_en_HTML.html", "PDC_en_emojis.py", "PDC_en_texte.py".
+* **19/04**: Les documents suivants ont été renommés et actualisés: "PDC_en_HTML.html", "PDC_en_emojis.py", "PDC_en_texte.py". Création de deux fichiers texte différents: un de départ (PDC_ini.txt) et un de sortie (PDC_fin.txt). - Stephanie
 
 ## DOCUMENTATION
 *Document Test_1.py:
@@ -58,38 +58,37 @@ __Ce qu'il faut faire pour voir le projet niveau 1:__
 * __L'exécuter__
 * __Ouvrir PDC_fin.txt => quelques mots ont été transformés en émojis!__
 * __Remarque: On peut exécuter le programme tant de fois que l'on veut__
+* __Remarque 2: Si on veut que le texte de sortie (PDC_fin.txt) retrouve sa forme initiale sans émojis, il faut exécuter PDC_en_texte.py__
 
 
-#### Document PDC_ini.txt - Stephanie:
+#### Document PDC_ini.txt - texte de départ - Stephanie:
 * comporte seulement le texte de la 1ère partie de PDC, pas modifié
 
-#### Document PDC_fin.txt - Stephanie:
+#### Document PDC_fin.txt - texte de sortie - Stephanie:
 * comporte le texte de la 1ère partie de la PDC, modifié 
 
 #### Document PDC_en_emojis.py - le programme principal - Catharina:
 * importe la fonction remplacer de Stephanie
 * exécute la fonction remplacer
 * "stocke" ce qui sort de cette fonction dans une variable
-* ouvre le document PDC.txt
-* remplace le contenu du document PDC.txt par le texte changé qui a été "stocké" dans la variable
+* ouvre le document PDC_fin.txt
+* remplace le contenu du document PDC_fin.txt par le texte changé qui a été "stocké" dans la variable
 
 #### Document Fonction_remplacer.py - fonction complémentaire - Stephanie:
 * création d'un dictionnaire qui associe à quelques mots des émojis
 * création de la fonction:
-  * ouvre PDC.txt
+  * ouvre PDC_ini.txt
   * parcourt chaque mot dans le document:
     * parcourt le dictionnaire
     * si le mot se trouve dans le dictionnaire, il est remplacé par son émoji
     * chaque mot remplacé ou non est ajouté dans une variable
   * retourne la variable, qui comporte le texte modifié
 
-__Après quelques modifications, on a plus besoin du programme suivant:__
-
-#### Document PDC_en_texte.py - Catharina:
+#### Document PDC_en_texte.py - programme optional - Catharina:
 * création d'un dictionnaire qui associe à quelques mots des émojis
-* ouvre le document PDC.txt
+* ouvre le document PDC_fin.txt
 * remplace chaque émoji par son mot correspondant
-* écrit les changements dans le document PDC.txt qui "retrouve" sa forme initiale (sans émojis)
+* écrit les changements dans le document PDC_fin.txt qui "retrouve" sa forme initiale (sans émojis)
 
 ### NIVEAU 2:
 
