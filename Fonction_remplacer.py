@@ -9,7 +9,7 @@ dic = {"princesse":"\U0001F478", "princesses":"\U0001F478" + "s", "princesse,":"
 # On définit une fonction, qui remplace les mots du document par les émojis correspondants en utilisant le dictionnaire.
 def remplacer():
     final="" # On crée une variable "final", vide.
-    with open("PDC.txt" , "rt" , encoding = "utf-8") as fichier : # On ouvre le document au mode de lecture (rt)
+    with open("PDC_ini.txt" , "rt" , encoding = "utf-8") as fichier : # On ouvre le document au mode de lecture (rt)
         for ligne in fichier:
             for mot in ligne.split(" "): # On parcourt chaque mot.
                 for cle in dic: # On parcourt le dictionnaire.
