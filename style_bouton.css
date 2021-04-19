@@ -1,0 +1,50 @@
+/* Document complémentaire pour les boutons */
+/* Niveau 2 projet 2 */
+
+#b1 {
+    padding: 15px 25px;
+    margin-left: 15px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    animation-name: bouton_1;
+    animation-timing-function: ease-in;
+    animation-duration: 0.75s; 
+    animation-iteration-count: infinite;
+    
+}
+
+@keyframes bouton_1 {
+0% {background-color: orange;}
+100% {background-color: red;}
+}
+
+
+
+#b2 {
+    padding: 15px 25px;
+    margin-left: 15px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    animation-name: bouton_2;
+    animation-timing-function: ease-in;
+    animation-duration: 1.5s; 
+    animation-iteration-count: infinite;
+    
+}
+
+@keyframes bouton_2 {
+0% {background-color: violet;}
+100% {background-color: purple;}
+}

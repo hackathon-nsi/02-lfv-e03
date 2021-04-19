@@ -47,3 +47,4 @@ document.querySelector("p1").innerHTML = final;       // On remet le texte sur l
 
 }
 
+
