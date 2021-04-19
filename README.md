@@ -44,7 +44,7 @@ niveau 4 : |--------------------|<br />
 
 * Ajout des programmes modifiés PDC en HTML et Fonction_remplacer en Python et du nouveau programme terminé fonctions_javascript le **18/04**.
 
-* **19/04**: Les documents suivants ont été renommés et actualisés: "PDC_en_HTML.html", "PDC_en_emojis.py", "PDC_en_texte.py". Création de deux fichiers texte différents: un de départ (PDC_ini.txt) et un de sortie (PDC_fin.txt). - Stephanie
+* **19/04**: Les documents suivants ont été renommés et actualisés: "PDC_en_HTML.html", "PDC_en_emojis.py", "PDC_en_texte.py". Création de deux fichiers texte différents: un de départ (PDC_ini.txt) et un de sortie (PDC_fin.txt). - Stephanie; Création d'un fichier "style_bouton.css" pour la page html + actualisation du fichier "Fonctions_javascript.js" - Catharina
 
 ## DOCUMENTATION
 *Document Test_1.py:
@@ -115,5 +115,8 @@ __Ce qu'il faut faire pour voir le projet niveau 2:__
     * si le mot se trouve dans le dictionnaire, il est remplacé par son émoji
     * chaque mot remplacé ou non est ajouté dans une variable
   * remet le texte modifié sur la page HTML
+
+#### Document style_bouton.css - programme pour le style des boutons - Catharina:
+* défini couleur, forme, place et animation des deux boutons sur la page html
 
 
