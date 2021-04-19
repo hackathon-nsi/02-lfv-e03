@@ -1,5 +1,5 @@
 
-# Programme additionnel (pas demandé par l'énoncé, mais utile pour retester le programme principal)
+# Programme additionnel (pas demandé par l'énoncé, mais utile si on veut retransformer PDC.fin en texte sans émojis)
 # Niveau 1 du projet 2
 
 # Ce programme additionnel (plus court, car il utilise la fonction replace()), permet de retransformer le texte avec émojis en texte sans émojis.
