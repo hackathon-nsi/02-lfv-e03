@@ -44,16 +44,27 @@ NIVEAU 2:
 
 * Ajout des programmes modifiés PDC en HTML et Fonction_remplacer en Python et du nouveau programme terminé fonctions_javascript le 18/04.
 
+* 19/04: Les documents suivants ont été renommés: "PDC_en_HTML.html", "PDC_en_emojis.py", "PDC_en_texte.py".
+
 ## DOCUMENTATION
 Document Test_1.py:
 Test pour voir comment GitHub fonctionne
 
-NIVEAU 1:
+NIVEAU 1: 
 
-Document PDC.txt - Stephanie:
+Ce qu'il faut faire pour voir le projet niveau 1:
+* Ouvrir PDC_en_emojis.py, le programme principal
+* L'exécuter
+* Ouvrir PDC_fin.txt => quelques mots ont été transformés en émojis!
+* Remarque: On peut exécuter le programme tant de fois que l'on veut
+
+Document PDC_ini.txt - Stephanie:
 * comporte seulement le texte de la 1ère partie de PDC, pas modifié
 
-Document PDC en émojis.py - le programme principal - Catharina:
+Document PDC_fin.txt - Stephanie:
+* comporte le texte de la 1ère partie de la PDC, modifié 
+
+Document PDC_en_emojis.py - le programme principal - Catharina:
 * importe la fonction remplacer de Stephanie
 * exécute la fonction remplacer
 * "stocke" ce qui sort de cette fonction dans une variable
@@ -70,7 +81,9 @@ Document Fonction_remplacer.py - fonction complémentaire - Stephanie:
     * chaque mot remplacé ou non est ajouté dans une variable
   * retourne la variable, qui comporte le texte modifié
 
-Document PDC en texte.py - Catharina:
+Après quelques modifications, on a plus besoin du programme suivant:
+
+Document PDC_en_texte.py - Catharina:
 * création d'un dictionnaire qui associe à quelques mots des émojis
 * ouvre le document PDC.txt
 * remplace chaque émoji par son mot correspondant
@@ -78,9 +91,16 @@ Document PDC en texte.py - Catharina:
 
 NIVEAU 2:
 
-Document PDC en HTML.py - le programme principal - Stephanie:
+Ce qu'il faut faire pour voir le projet niveau 2:
+* Ouvrir PDC_en_HTML.html, le programme principal
+* Cliquer sur le bouton "remplacer par émojis" => les émojis apparaissent!
+* Cliquer sur le bouton "Réinitialiser" => les émojis disparaissent, la page est réinitialisée
+* Remarque: On peut exécuter le programme tant de fois que l'on veut
+
+Document PDC_en_HTML.html - le programme principal - Stephanie:
 * affiche tout le texte de la 1ère partie de la Princesse de Clèves
 * affiche un bouton "remplacer", qui déclenche après un clic la fonction "remplacer" sur le document en JavaScript
+* affiche un bouton "réinitialiser", qui déclenche après un clic la fonction "réinitialiser" sur le document en JavaScript
 
 Document Fonctions_javascript.js - fonction complémentaire - Catharina:
 * création d'un dictionnaire qui associe à quelques mots des émojis
