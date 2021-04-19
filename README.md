@@ -52,11 +52,13 @@ Test pour voir comment GitHub fonctionne*
 
 ### NIVEAU 1: 
 
+
 __Ce qu'il faut faire pour voir le projet niveau 1:__
 * __Ouvrir PDC_en_emojis.py, le programme principal__
 * __L'exécuter__
 * __Ouvrir PDC_fin.txt => quelques mots ont été transformés en émojis!__
 * __Remarque: On peut exécuter le programme tant de fois que l'on veut__
+
 
 #### Document PDC_ini.txt - Stephanie:
 * comporte seulement le texte de la 1ère partie de PDC, pas modifié
@@ -91,11 +93,13 @@ __Après quelques modifications, on a plus besoin du programme suivant:__
 
 ### NIVEAU 2:
 
+
 __Ce qu'il faut faire pour voir le projet niveau 2:__
 * __Ouvrir PDC_en_HTML.html, le programme principal__
 * __Cliquer sur le bouton "remplacer par émojis" => les émojis apparaissent!__
 * __Cliquer sur le bouton "Réinitialiser" => les émojis disparaissent, la page est réinitialisée__
 * __Remarque: On peut exécuter le programme tant de fois que l'on veut__
+
 
 #### Document PDC_en_HTML.html - le programme principal - Stephanie:
 * affiche tout le texte de la 1ère partie de la Princesse de Clèves
